@@ -1,0 +1,22 @@
+{
+  "hintSum": {
+    "total": 100,
+    "previousYear": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ],
+    "currentYear": [ 1, 2, 3, 4, 5, 6 ]
+  },
+  "mileageSum": {
+    "total": 200,
+    "previousYear": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ],
+    "currentYear": [ 1, 2, 3, 4, 5, 6 ]
+  },
+  "timeSum": {
+    "total": 300,
+    "previousYear": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ],
+    "currentYear": [ 1, 2, 3, 4, 5, 6 ]
+  },
+  "parkSum": {
+    "total": 400,
+    "previousYear": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ],
+    "currentYear": [ 1, 2, 3, 4, 5, 6 ]
+  }
+}
